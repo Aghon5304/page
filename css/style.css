@@ -1,0 +1,16 @@
+@import url('reset.css');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+body{
+    font-family: 'Ubuntu', sans-serif;
+    height: 400vh;
+}  
+header{
+    height: 100vh;
+    /* background-image: url('../assets/img/bg_header.jpg'); */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    /* background-size: cover; */
+    /* background-color: #fff; */
+    background: center/cover url('../assets/img/bg_header.jpg');
+    background-attachment: fixed;
+}
